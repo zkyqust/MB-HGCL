@@ -1,6 +1,4 @@
 # MB-HGCL
-## run the codes
-
 ### Beibei\Taobao
 
 python MBSSL.py --dataset Beibei --wid [0.1,0.1,0.1] --coefficient [0.0/6,5.0/6,1.0/6] --decay 10 --batch_size 256 --ssl_temp 0.2
